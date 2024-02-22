@@ -15,5 +15,5 @@ class Soma {
 		soma = num1 + num2;
 		//Mostrar na tela
 		System.out.println("Soma:" + soma);
-		}
+	}
 }
